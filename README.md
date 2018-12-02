@@ -11,6 +11,9 @@ This project uses the iris dataset. It plots each of the four attributes separat
 Six different mcahine learning algorithms where then used on 80% of the dataset for training and their accuracies compared.
 The algorithm with the best results is then used on the final 20% for validation.
 
+## Built with
+Spyder (Anaconda distribution)
+
 ## Source
 I do not claim ownership for this program. This was used as a learning experience; this code is from the following guide:
 https://machinelearningmastery.com/make-predictions-scikit-learn/
